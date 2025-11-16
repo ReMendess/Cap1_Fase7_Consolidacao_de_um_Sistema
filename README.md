@@ -28,7 +28,9 @@ Link do vídeo:
 
 [7. Fase 7 – Consolidação e AW](#c7)
 
-[8. Ir Além](#c8)
+[8. Ir Além 1](#c8)
+
+[9. Ir Além 2](#c9)
 
 
 # <a name="c1"></a>1. Base de Dados/API Metereologica
@@ -112,19 +114,41 @@ Nela podemos realizar a inserção de dados, operações CRUD, consultar API, ca
 
 Além disso, aprofundamos com AWS hospedando alguns dos nossos serviços e infra garatindo a disponibilidade e escalabilidade.
 
+### Aplicação final:
 <img src="assets/Fase7.png" widht="150">
 
 <img src="assets/Fase7II.png" widht="150">
 
 <img src="assets/Fase7II.png" widht="150">
 
+### Aqui criamos serviços de armazenamento de dados com DynamoDB
+
 <img src="assets/fase5II.png" widht="150">
 
 <img src="assets/fase5III.png" widht="150">
 
+### Criamos um bucket com S3
 <img src="assets/fase5IV.png" widht="150">
 
 <img src="assets/fase5V.png" widht="150">
 
-# <a name="c8"></a>8. Ir Além
+# <a name="c8"></a>8. Ir Além 1
+Usando AWS Rekognition, configuramos e criamos um serviço de reconhecimento de imagem.
+
+### Criamos um bucket e subimos imagens
+<img src="assets/irAlem.png" widht="150">
+
+### Atualizamos as politicas e criamos um usúario com permissão para usar o serviço do Rekognition
+<img src="assets/irAlemII.png" widht="150">
+
+### Acessando o Rekognition montamos toda a estrutura, pegando as imagens do bucket para treinar o modelo, rotular e dar deploy
+<img src="assets/irAlemIII.png" widht="150">
+
+<img src="assets/irAlemIV.png" widht="150">
+
+<img src="assets/irAlemV.png" widht="150">
+
+<img src="assets/irAlemVI.png" widht="150">
+
+# <a name="c9"></a>9. Ir Além 2
 
