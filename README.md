@@ -1,4 +1,4 @@
-# FIAP - Faculdade de Informática e Administração Paulista
+<img width="568" height="470" alt="image" src="https://github.com/user-attachments/assets/3392bbe1-4147-4c77-beaf-d23d9d98529e" /># FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
 <a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
@@ -106,7 +106,18 @@ Link: https://github.com/ReMendess/Rede_Neural_FIAP_Cap1_Fase6
 
 <img src="assets/IrAlem2_Segment (1).png" widht="150">
 
-# <a name="c7"></a>7. Fase 7 – Fase 7 – Fase 7 – Consolidação e AWS
+# <a name="c7"></a>7. Fase 7 – Fase 7 – Fase 7 – Consolidação e AWS.
+
+Nessa última fase, consolidamos todas as aplicações em uma só - "Fase7.py"
+Nela podemos realizar a inserção de dados, operações CRUD, consultar API, captar dados com ESP32, treinar diversos modelos com Scikit Learn, ou treinar modelos de redes neuras com Yolo.
+
+Além disso, aprofundamos com AWS hospedando alguns dos nossos serviços e infra garatindo a disponibilidade e escalabilidade.
+
+<img src="assets/Fase7.png" widht="150">
+
+<img src="assets/Fase7II.png" widht="150">
+
+<img src="assets/Fase7II.png" widht="150">
 
 # <a name="c8"></a>8. Ir Além
 
