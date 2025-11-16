@@ -90,7 +90,7 @@ Link: https://github.com/ReMendess/Fase_5_Cap_1_FarmTech_Cloud_Comput
 
 <img src="assetsHTML_Leitura2 (1).jpeg" widht="150">
 
-# <a name="c6"></a>6. Fase 5 – Fase 6 – Fase 6 – Visão Computacional
+# <a name="c6"></a>6. Fase 6 – Visão Computacional
 
 Sexta fase, usando visão computacional com redes neurais, testamos diferentes modelos YOLO, criamos nosso modelo do 0, e ainda realizamos Fine Tunning e Segmentação.
 Usando uma base de imagens de cachorros e gatos
@@ -117,6 +117,14 @@ Além disso, aprofundamos com AWS hospedando alguns dos nossos serviços e infra
 <img src="assets/Fase7II.png" widht="150">
 
 <img src="assets/Fase7II.png" widht="150">
+
+<img src="assets/fase5II.png" widht="150">
+
+<img src="assets/fase5III.png" widht="150">
+
+<img src="assets/fase5IV.png" widht="150">
+
+<img src="assets/fase5V.png" widht="150">
 
 # <a name="c8"></a>8. Ir Além
 
