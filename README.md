@@ -75,7 +75,7 @@ Link: https://github.com/ReMendess/Fase_4_Cap_1_Autom.Intelig.
 
 <img src="assets/modelo.png" widht="150">
 
-# <a name="c5"></a>5. Fase 5 – Fase 5 – Fase 5 – Cloud Computing/Scikit_Learn
+# <a name="c5"></a>5. Fase 5 – Cloud Computing/Scikit_Learn
 
 Quinta fase, usando Scikit_Learn treinamos e testamos diferentes modelos de Machine Learning. Criamos diferentes serviços na AWS, e orçamos em diferentes regiões.
 Fomos além e usando ESP32 reais com dois sensores: DHT22 e Capacitive Soil Moisture Sensor v2.0, criamos uma aplicação de monitoramento e visualização via HTML e com protocolo MQTT
@@ -107,7 +107,7 @@ Link: https://github.com/ReMendess/Rede_Neural_FIAP_Cap1_Fase6
 
 <img src="assets/IrAlem2_Segment (1).png" widht="150">
 
-# <a name="c7"></a>7. Fase 7 – Fase 7 – Fase 7 – Consolidação e AWS.
+# <a name="c7"></a>7. Fase 7 – Consolidação e AWS.
 
 Nessa última fase, consolidamos todas as aplicações em uma só - "Fase7.py"
 Nela podemos realizar a inserção de dados, operações CRUD, consultar API, captar dados com ESP32, treinar diversos modelos com Scikit Learn, ou treinar modelos de redes neuras com Yolo.
