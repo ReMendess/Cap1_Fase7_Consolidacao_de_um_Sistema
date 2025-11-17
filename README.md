@@ -8,10 +8,9 @@
 # A consolidação de um sistema - Cap1 - Fase 7 
 Link do vídeo: 
 
-Baixe todos os aquivos
-Usando o Prompt de comando acesse a pasta baixada
-Execute o arquivo Fase7.py com:
-python Fase7.py
+1. Baixe todos os aquivos do repositório
+2. Usando o Prompt de comando acesse a pasta baixada
+3. Execute o arquivo Fase7.py com: python Fase7.py
 
 ## Nome do Grupo
 
