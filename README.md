@@ -12,7 +12,7 @@ Link do vídeo:
 2. Usando o Prompt de comando acesse a pasta baixada
 3. Execute o arquivo Fase7.py com: python Fase7.py
 
-## Dependecias
+## Dependências
 
 - streamlit
 - notebook
@@ -163,4 +163,10 @@ Usando AWS Rekognition, configuramos e criamos um serviço de reconhecimento de 
 <img src="assets/irAlemVI.png" widht="150">
 
 # <a name="c9"></a>9. Ir Além 2
+
+Utilizando um algoritmo genético, criamos um notebook python para otimização agrícola, pensando na alocação eficiente de insumos e recursos na fazenda, visando maximizar a produtividade e reduzir custos
+<img src="assets/IrAlem_N.png" widht="150">
+
+<img src="assets/IrAlem_N2.png" widht="150">
+
 
