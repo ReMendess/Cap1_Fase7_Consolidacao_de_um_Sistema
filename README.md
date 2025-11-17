@@ -8,6 +8,11 @@
 # A consolidação de um sistema - Cap1 - Fase 7 
 Link do vídeo: 
 
+Baixe todos os aquivos
+Usando o Prompt de comando acesse a pasta baixada
+Execute o arquivo Fase7.py com:
+python Fase7.py
+
 ## Nome do Grupo
 
 - Arthur Luiz Rosado Alves -> RM562061
@@ -53,7 +58,7 @@ Link MER: https://github.com/aarthurrosado/Fazenda
 <img src="assets/banco_dados5.png" widht="150">
 
 
-# <a name="c3"></a>3. Fase 3 – Fase 3 – IoT e Automação
+# <a name="c3"></a>3. Fase 3 –  IoT e Automação
 
 Na terceira fase, entramos na parte de Iot com microprocessadores e sensores.
 Usando wokwi e sensores reais e criamos uma aplicação de captação e monitoramento de dados. Desenvolveu-se um sistema IoT completo para irrigação automatizada conectado ao banco de dados. Usando a lógica de ativação automática da irrigação.
@@ -65,7 +70,7 @@ Link: https://github.com/ReMendess/Maquina_Agricola_Cap1
 <img src="assets/wokwi_1.jpg" widht="150">
 
 
-# <a name="c4"></a>4. Fase 4 – Fase 4 – Dashboard Interativo com Data Science
+# <a name="c4"></a>4. Fase 4 – Dashboard Interativo com Data Science
 
 Na quarta fase, usando Streamlit, integramos Machine Learning em um dashboard online para análise exploratória dos dados. Também aprimoramos nosso ESP32 para monitoramento e criamos algoritmos preditivos de irrigação e manejo agrícola.
 
