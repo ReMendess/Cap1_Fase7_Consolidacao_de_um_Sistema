@@ -7,6 +7,7 @@
 
 # A consolidação de um sistema - Cap1 - Fase 7 
 Link do vídeo: https://youtu.be/rFZPTh22E2o
+Link Ir Além: https://youtu.be/3TxSsHCXFtA
 
 1. Baixe todos os aquivos do repositório
 2. Usando o Prompt de comando acesse a pasta baixada
@@ -145,6 +146,7 @@ Além disso, aprofundamos com AWS hospedando alguns dos nossos serviços e infra
 <img src="assets/fase5V.png" widht="150">
 
 # <a name="c8"></a>8. Ir Além 1
+Link Ir Além: https://youtu.be/3TxSsHCXFtA
 Usando AWS Rekognition, configuramos e criamos um serviço de reconhecimento de imagem.
 
 ### Criamos um bucket e subimos imagens
