@@ -6,7 +6,7 @@
 <br>
 
 # A consolidação de um sistema - Cap1 - Fase 7 
-Link do vídeo: 
+Link do vídeo: https://youtu.be/rFZPTh22E2o
 
 1. Baixe todos os aquivos do repositório
 2. Usando o Prompt de comando acesse a pasta baixada
