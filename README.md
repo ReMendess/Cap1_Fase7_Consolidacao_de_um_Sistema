@@ -90,7 +90,7 @@ Link: https://github.com/ReMendess/Fase_5_Cap_1_FarmTech_Cloud_Comput
 
 <img src="assets/CodigoC (1).jpeg" widht="150">
 
-<img src="assetsHTML_Leitura2 (1).jpeg" widht="150">
+<img src="assets/HTML_Leitura2 (1).jpeg" widht="150">
 
 # <a name="c6"></a>6. Fase 6 – Visão Computacional
 
