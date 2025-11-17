@@ -12,6 +12,14 @@ Link do vídeo:
 2. Usando o Prompt de comando acesse a pasta baixada
 3. Execute o arquivo Fase7.py com: python Fase7.py
 
+## Dependecias
+
+- streamlit
+- notebook
+- subprocess
+- webbrowser
+- oracledb
+
 ## Nome do Grupo
 
 - Arthur Luiz Rosado Alves -> RM562061
