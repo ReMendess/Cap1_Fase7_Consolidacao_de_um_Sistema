@@ -5,7 +5,7 @@
 
 <br>
 
-# Despertar da rede neural - Fase 7 - Cap1
+#A consolidação de um sistema - Cap1 - Fase 7 
 Link do vídeo: 
 
 ## Nome do Grupo
